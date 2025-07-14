@@ -1,3 +1,8 @@
+## ✍️ Author
+**Vansh Bhardwaj**  
+📧 [vanshbhardwajhere@gmail.com](mailto:vanshbhardwajhere@gmail.com)  
+🔗 [GitHub](https://github.com/vanshbhardwajhere)
+
 # find_min_distance
 
 [![Pub Version](https://img.shields.io/pub/v/find_min_distance.svg)](https://pub.dev/packages/find_min_distance)
