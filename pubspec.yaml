@@ -1,0 +1,26 @@
+name: find_min_distance
+description: A Dart package to calculate minimum distance between two locations using latitude and longitude.
+
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.5.3
+
+# Add regular dependencies here.
+# dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
+
+  
+
+homepage: https://github.com/yourusername/find_min_distance
+repository: https://github.com/yourusername/find_min_distance
+
+topics:
+  - geolocation
+  - distance
+  - utility
