@@ -31,7 +31,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  find_min_distance: ^1.0.1
+  find_min_distance: ^1.0.2
 ```
 
 Then, run:  
